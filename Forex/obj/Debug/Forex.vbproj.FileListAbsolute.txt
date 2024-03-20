@@ -1,0 +1,24 @@
+D:\5 School\Visual Basic\Forex\Forex\bin\Debug\Forex.exe.config
+D:\5 School\Visual Basic\Forex\Forex\bin\Debug\Forex.exe
+D:\5 School\Visual Basic\Forex\Forex\bin\Debug\Forex.pdb
+D:\5 School\Visual Basic\Forex\Forex\bin\Debug\Forex.xml
+D:\5 School\Visual Basic\Forex\Forex\obj\Debug\Forex.vbproj.AssemblyReference.cache
+D:\5 School\Visual Basic\Forex\Forex\obj\Debug\Forex.Form1.resources
+D:\5 School\Visual Basic\Forex\Forex\obj\Debug\Forex.Resources.resources
+D:\5 School\Visual Basic\Forex\Forex\obj\Debug\Forex.vbproj.GenerateResource.cache
+D:\5 School\Visual Basic\Forex\Forex\obj\Debug\Forex.vbproj.CoreCompileInputs.cache
+D:\5 School\Visual Basic\Forex\Forex\obj\Debug\Forex.exe
+D:\5 School\Visual Basic\Forex\Forex\obj\Debug\Forex.xml
+D:\5 School\Visual Basic\Forex\Forex\obj\Debug\Forex.pdb
+D:\5 School\Visual Basic\Manalo, Marino (Forex)\Forex\bin\Debug\Forex.exe.config
+D:\5 School\Visual Basic\Manalo, Marino (Forex)\Forex\bin\Debug\Forex.exe
+D:\5 School\Visual Basic\Manalo, Marino (Forex)\Forex\bin\Debug\Forex.pdb
+D:\5 School\Visual Basic\Manalo, Marino (Forex)\Forex\bin\Debug\Forex.xml
+D:\5 School\Visual Basic\Manalo, Marino (Forex)\Forex\obj\Debug\Forex.vbproj.AssemblyReference.cache
+D:\5 School\Visual Basic\Manalo, Marino (Forex)\Forex\obj\Debug\Forex.Form1.resources
+D:\5 School\Visual Basic\Manalo, Marino (Forex)\Forex\obj\Debug\Forex.Resources.resources
+D:\5 School\Visual Basic\Manalo, Marino (Forex)\Forex\obj\Debug\Forex.vbproj.GenerateResource.cache
+D:\5 School\Visual Basic\Manalo, Marino (Forex)\Forex\obj\Debug\Forex.vbproj.CoreCompileInputs.cache
+D:\5 School\Visual Basic\Manalo, Marino (Forex)\Forex\obj\Debug\Forex.exe
+D:\5 School\Visual Basic\Manalo, Marino (Forex)\Forex\obj\Debug\Forex.xml
+D:\5 School\Visual Basic\Manalo, Marino (Forex)\Forex\obj\Debug\Forex.pdb
